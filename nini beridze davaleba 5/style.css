@@ -1,0 +1,186 @@
+@font-face {
+    font-family: 'YellowTail';
+    src: url(./fonts/Yellowtail-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url(./fonts/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'RobotoBold';
+    src: url(./fonts/Roboto-Bold.ttf);
+}
+
+
+@font-face {
+    font-family: 'RobotoMedium';
+    src: url(./fonts/Roboto-Medium.ttf);
+}
+
+a {
+    font-family: 'RobotoBold';
+    font-size: 20px;
+}
+
+h4 {
+    font-family: 'YellowTail';
+    font-weight: 400;
+}
+
+h3 {
+    font-family: 'RobotoBold';
+}
+
+p {
+    font-family: 'OpenSans';
+    font-size: 18px;
+}
+
+span {
+    font-family: 'RobotoMedium';
+    font-size: 20px;
+}
+
+.wraper {
+    width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.left-wraper {
+    width: 671px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 45px;
+}
+
+.right-wraper {
+    width: 678px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.left-wraper-title {
+    font-size: 36px;
+    color: #7EB693;
+
+}
+
+.wraper-description {
+
+    color: #274C5B;
+    font-size: 50px;
+    margin-top: 6px;
+    margin-bottom: 25px;
+
+}
+
+.wraper-desc2 {
+    font-size: 18px;
+    color: #525C60;
+    margin-bottom: 35px;
+}
+
+.grey-block {
+    width: 339px;
+    background-color: #ECECEC;
+    padding-top: 10px;
+    padding-left: 27px;
+    padding-bottom: 10px;
+    margin-bottom: 12px;
+}
+
+.gray-block-image {
+    vertical-align: middle;
+}
+
+.wraper-description3 {
+    width: 444px;
+    font-size: 18px;
+    color: #525C60;
+    margin-left: 60px;
+
+}
+
+.grey-block-desc {
+    color: #274C5B;
+    display: inline-block;
+}
+
+.active-grey {
+    margin-top: 24px;
+}
+
+/* --------------- */
+
+.policy-card {
+    margin-left: 25px;
+    display: inline-block;
+    height: 320px;
+    width: 242px;
+    background-color: white;
+}
+
+.policy-wraper {
+    margin-top: 80px;
+    width: 1118px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.policy-heading {
+    color: #274C5B;
+    padding-left: 15px;
+}
+
+.policy-paragraph {
+    margin-left: auto;
+    margin-right: auto;
+    width: 184px;
+    text-align: center;
+    margin-top: 25px;
+    text-align: center;
+    font-size: 18px;
+    color: #525C60;
+
+}
+
+header {
+    background-color: white;
+    ;
+    margin-top: 69px;
+    margin-bottom: 69px;
+    margin-left: 162px;
+    margin-right: 162px;
+    width: 1595px;
+}
+
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.nav {
+    margin-left: 150px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.nav-li {
+    color: #274C5B;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+main {
+    background: #F9F8F8;
+    padding-top: 30px;
+    padding-bottom: 150px;
+
+    display: block;
+}
